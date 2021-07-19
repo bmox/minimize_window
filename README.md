@@ -1,1 +1,8 @@
-# protect_when_you_are_doing_some-_private_work
+# minimize window when someone is behid you
+```
+pip install-r requirements.txt
+```
+
+```
+python minimize.py
+```
