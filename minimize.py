@@ -70,7 +70,7 @@ def main():
             cv2.imwrite("person.png", img)
             if safe_mode == False:
                 # safe_mode=True
-                webbrowser.open('http://www.python.org')
+                webbrowser.open('https://www.google.com/')
                 pyautogui.hotkey('win', 'd')
                 print("close window")
         else:
