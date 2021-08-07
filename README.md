@@ -3,7 +3,9 @@ Download or git clone the folder. Then Go to minimize_window-main folder
 ```
 pip install -r requirements.txt
 ```
-
+```
+python close_chrome.py
+```
 ```
 python minimize.py
 ```
